@@ -18,3 +18,32 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 - **AWS Cloud Practitioner Essentials** (Coursera)
 - **Linux Quick Start** (LabEx)
 - **Junior System Administrator** (LabEx)
+
+---
+
+## Notas y comandos
+
+pwd = indica (imprime) directorio actual
+cd = cambia de directorio 
+~ = directorio personal 
+ls = lista el contenido; ls ~ = enumera el contenido; ls * = ls + * busca caracteres especificos
+**ls tiene, al parecer, muchas opciones que complementan el comando**
+mkdir = crear directorio
+touch = crear archivo 
+**touch permite crear varios archivos de una sola vez**
+touch xxx_{n..n}.xxx = crear archivos dentro de un rango
+echo = imprimir texto
+cat = mostrar el contenido de un archivo; cat -n 
+cp = copy
+mv = mover/renombrar archivo
+rm = remove/eliminar archivos; rmdir = remove/eliminar directorios
+**los archivos se eliminan permanentemente**
+cat h tabulador = autocompletado de comandos
+**Ctrl + l = Limpia la pantalla**
+-Navegacion por el manual-
+man ls = ingresa al manual de comandos
+/palabra = busca  la palabra especifica en el manual
+n / N = avanza / retrocede de acuerdo a la busqueda
+grep = **necesito comprender mejor este comando**
+apropos "palabra_clave" = usar apropos + palabra relacionada para a la accion que se busca realizar para encontrar un comando
+apropos palabra1 | grep palabra2 = busqueda mas especifica
