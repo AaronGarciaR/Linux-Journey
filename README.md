@@ -30,7 +30,7 @@ ls = lista el contenido; ls ~ = enumera el contenido; ls * = ls + * busca caract
 **ls tiene, al parecer, muchas opciones que complementan el comando**
 mkdir = crear directorio
 touch = crear archivo 
-**touch permite crear varios archivos de una sola vez**
+**touch y mkdir permite crear varios archivos/directorios de una sola vez**
 touch xxx_{n..n}.xxx = crear archivos dentro de un rango
 echo = imprimir texto
 cat = mostrar el contenido de un archivo; cat -n 
@@ -47,3 +47,5 @@ n / N = avanza / retrocede de acuerdo a la busqueda
 grep = **necesito comprender mejor este comando**
 apropos "palabra_clave" = usar apropos + palabra relacionada para a la accion que se busca realizar para encontrar un comando
 apropos palabra1 | grep palabra2 = busqueda mas especifica
+find = buscar por nombre, tiempo, tamaño (necesitas especificar parametros)
+
