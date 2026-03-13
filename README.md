@@ -31,6 +31,8 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 | `ls -la` | *List all* / Listar todo | El `-a` muestra archivos ocultos (los que empiezan con punto). |
 | `cd ~` | *Change Directory to Home* | Te lleva "a casa" (tu carpeta de usuario). |
 | `mkdir` / `touch` | Crear carpetas / archivos | Puedes crear varios: `touch file{1..5}.txt` |
+| `| ` tuberia o pipe | toma la salida de un comando como entrada del siguiente |  
+
 
 ### 🔍 Búsqueda y Filtros
 * **`grep` (Global Regular Expression Print):** Es como un buscador inteligente. 
