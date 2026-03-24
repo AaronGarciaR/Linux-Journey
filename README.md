@@ -43,3 +43,11 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 ### ⚡ Atajos de teclado
 * `Tabulador`: Autocompletado (Tu mejor amigo para no escribir mal los nombres).
 * `Ctrl + L`: Limpiar la terminal sin borrar el historial.
+
+**Los argumentos no son universales, depende el comando**
+pendiente realiar una lista corta o para principales comandos
+* Para mkdir * 
+- -p crea directorios padres
+- -v imprime mensaje de directorio creado
+- -m XXX permisos
+- tree visualizar estructura de directorios.
