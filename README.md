@@ -51,3 +51,12 @@ pendiente realiar una lista corta o para principales comandos
 - -v imprime mensaje de directorio creado
 - -m XXX permisos
 - tree visualizar estructura de directorios.
+  
+**Estandar para el uso de .log**
+- access.log = registro de las solicitudes realizadas al servidor
+- error.log = registro de errores
+- server.log = registro del estado de los servicios  
+
+**Otros comandos**
+grep -c = Cuenta coincidencias.
+wc -l = Cuenta líneas totales (tamaño del archivo).
