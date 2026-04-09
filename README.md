@@ -44,19 +44,25 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 * `Tabulador`: Autocompletado (Tu mejor amigo para no escribir mal los nombres).
 * `Ctrl + L`: Limpiar la terminal sin borrar el historial.
 
-**Los argumentos no son universales, depende el comando**
-pendiente realiar una lista corta o para principales comandos
+**Notas**
+  -Los argumentos no son universales, depende el comando
 * Para mkdir * 
 - -p crea directorios padres
 - -v imprime mensaje de directorio creado
 - -m XXX permisos
 - tree visualizar estructura de directorios.
+-  No todos los comandos requieren > para crear un nuevo archivo de salida
   
 **Estandar para el uso de .log**
 - access.log = registro de las solicitudes realizadas al servidor
 - error.log = registro de errores
 - server.log = registro del estado de los servicios  
 
-**Otros comandos**
-grep -c = Cuenta coincidencias.
-wc -l = Cuenta líneas totales (tamaño del archivo).
+**Nuevos comandos**
+- grep -c = Cuenta coincidencias.
+- wc -l = Cuenta líneas totales (tamaño del archivo)
+- cut = extrae información especifica
+  * comandos para texto *
+- cat = visualiza pero tambien crea y concatena texto
+- sort = muestra el texto en un cierto orden
+- uniq = filtra listas repetidas
