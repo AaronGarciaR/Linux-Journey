@@ -66,3 +66,4 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 - cat = visualiza pero tambien crea y concatena texto
 - sort = muestra el texto en un cierto orden
 - uniq = filtra listas repetidas
+- tr = manipula la salida de texto,  pero no altera el archivo de origen
