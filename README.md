@@ -60,10 +60,10 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 
 **Nuevos comandos**
 - grep -c = Cuenta coincidencias.
-- wc -l = Cuenta líneas totales (tamaño del archivo)
 - cut = extrae información especifica
   * comandos para texto *
 - cat = visualiza pero tambien crea y concatena texto
 - sort = muestra el texto en un cierto orden
 - uniq = filtra listas repetidas
 - tr = manipula la salida de texto,  pero no altera el archivo de origen
+- wc = -l cuenta líneas, -w cuenta palabras, -c cuenta caracteres.
