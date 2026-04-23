@@ -67,3 +67,5 @@ My first contact with Linux OS: Notes and practice for takeoff in my Cloud Journ
 - uniq = filtra listas repetidas
 - tr = manipula la salida de texto,  pero no altera el archivo de origen
 - wc = -l cuenta líneas, -w cuenta palabras, -c cuenta caracteres.
+- free = analizar uso de la memoria -memoria RAM 
+- df = uso del disco - memoria de disco duro - permanente 
